@@ -1,0 +1,48 @@
+{
+  "defaults": {
+    "project": 2,
+    "env": 1
+  },
+  "actives": {
+    "project": 2,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "25141000000030001",
+      "name": "Portfolio",
+      "domain": {
+        "id": "50038583865",
+        "name": "portfolio-60059176945.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60059176945",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "id": "25141000000035004",
+      "name": "Ashika-Portfolio",
+      "domain": {
+        "id": "50038701782",
+        "name": "ashika-portfolio-60059176945.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60059176945",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
